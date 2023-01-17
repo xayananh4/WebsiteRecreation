@@ -25,6 +25,7 @@ window.addEventListener("load", function () {
   aTagElement.href = "https://en.wikipedia.org/wiki/Multicoloured_tanager";
   aTagElement.innerText = "wiki";
 
+  //this can also be apprend not just apprendChild
   document.body.appendChild(secondH1OnPage);
   document.body.appendChild(papaElement);
   document.body.appendChild(imgElement);
